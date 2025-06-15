@@ -4,13 +4,13 @@ services:
     container_name: windows
     environment:
       VERSION: "11"
-      DISK_SIZE: "256G"
+      DISK_SIZE: "128G"
       RAM_SIZE: "10G"
       CPU_CORES: "4"
       DISK2_SIZE: "32G"
       DISK3_SIZE: "64G"
-      USERNAME: "Fivem"
-      PASSWORD: "Fivem"
+      USERNAME: "Fivenvb"
+      PASSWORD: "Fivenvb"
         
     devices:
       - /dev/kvm
